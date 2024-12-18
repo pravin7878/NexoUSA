@@ -17,8 +17,8 @@ const Home = () => {
     <>
       {/* <h1 className="p-10 text-center">This is Home Page </h1> */}
       <div>
-        {/* <Slider /> */}
-        <SwiperComponent />
+        <Slider />
+        {/* <SwiperComponent /> */}
         <WelcomeSection />
         <FastenerComponent />
         <FabricationComponent />
