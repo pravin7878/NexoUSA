@@ -6,8 +6,8 @@ import Description from "../components/home/Description";
 import FabricationComponent from "../components/home/FabricationComponent";
 import FastenerComponent from "../components/home/FastenerComponent";
 import FastnersLinks from "../components/home/FastnersLinks";
-// import { Slider } from "../components/home/Slider";
-import SwiperComponent from "../components/home/SwiperComponent";
+import { Slider } from "../components/home/Slider";
+// import SwiperComponent from "../components/home/SwiperComponent";
 import WelcomeSection from "../components/home/WelcomeSection";
 
 // Slider Component 
